@@ -176,7 +176,7 @@
                 "S3Bucket": {
                   "Ref": "ServerlessDeploymentBucket"
                 },
-                "S3Key": "serverless/football-api/production/1617279087101-2021-04-01T12:11:27.101Z/football-api.zip"
+                "S3Key": "serverless/football-api/production/1617292925042-2021-04-01T16:02:05.042Z/football-api.zip"
               },
               "Handler": "lambda.handler",
               "Runtime": "nodejs12.x",
@@ -194,14 +194,14 @@
               "ApiLogGroup"
             ]
           },
-          "ApiLambdaVersionEbzyc2Pnubkc7g9WSIBz0lDj6ZLZokyYnHO2Zguzg": {
+          "ApiLambdaVersionu72MVXQaqaiND8pAAsCKJMXeJD6FxzT84tFntj9e2gU": {
             "Type": "AWS::Lambda::Version",
             "DeletionPolicy": "Retain",
             "Properties": {
               "FunctionName": {
                 "Ref": "ApiLambdaFunction"
               },
-              "CodeSha256": "nV+IMbBjoU3X/kbAPbdWD+Lfx+9MLYkELx80IL+J/8Y="
+              "CodeSha256": "mm/pHL5M6XtnNK0tjc7fvBlHiQmzj43j/qWGeubl5os="
             }
           },
           "ApiGatewayRestApi": {
@@ -319,7 +319,7 @@
               "MethodResponses": []
             }
           },
-          "ApiGatewayDeployment1617279048875": {
+          "ApiGatewayDeployment1617292903680": {
             "Type": "AWS::ApiGateway::Deployment",
             "Properties": {
               "RestApiId": {
@@ -379,7 +379,7 @@
           "ApiLambdaFunctionQualifiedArn": {
             "Description": "Current Lambda function version",
             "Value": {
-              "Ref": "ApiLambdaVersionEbzyc2Pnubkc7g9WSIBz0lDj6ZLZokyYnHO2Zguzg"
+              "Ref": "ApiLambdaVersionu72MVXQaqaiND8pAAsCKJMXeJD6FxzT84tFntj9e2gU"
             }
           },
           "ServiceEndpoint": {
@@ -521,7 +521,7 @@
         "timeout": 15,
         "runtime": "nodejs12.x",
         "vpc": {},
-        "versionLogicalId": "ApiLambdaVersionEbzyc2Pnubkc7g9WSIBz0lDj6ZLZokyYnHO2Zguzg"
+        "versionLogicalId": "ApiLambdaVersionu72MVXQaqaiND8pAAsCKJMXeJD6FxzT84tFntj9e2gU"
       }
     },
     "configValidationMode": "warn",
@@ -542,7 +542,7 @@
     "artifact": "/Users/Stelou/PROJETS JS/REACT/football_results_api/.serverless/football-api.zip"
   },
   "package": {
-    "artifactDirectoryName": "serverless/football-api/production/1617279087101-2021-04-01T12:11:27.101Z",
+    "artifactDirectoryName": "serverless/football-api/production/1617292925042-2021-04-01T16:02:05.042Z",
     "artifact": "football-api.zip"
   }
 }
