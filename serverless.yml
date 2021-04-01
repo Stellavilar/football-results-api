@@ -1,0 +1,21 @@
+service: football-api
+
+provider:
+ name: aws
+ runtime: nodejs12.x
+ memorySize: 512
+ timeout: 15
+ stage: production
+ region: us-east-1
+
+functions:
+ api:
+   handler: lambda.handler
+   events:
+     - http:
+        path: /{proxy+}
+        method: get
+        cors: 
+          origin: "*"
+          headers: "*"
+    

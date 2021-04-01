@@ -1,0 +1,18 @@
+{
+  "name": "football_results_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "deploy": "serverless deploy"
+  },
+  "author": "Stella Vilar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "serverless": "^2.32.1"
+  }
+}
