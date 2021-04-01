@@ -8,6 +8,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
 const ligue1 = require ('./ligue1');
+const premierLeague = require ('./premierLeague');
 
 app.get('/', (req, res) => {
     res.status(200).send('hello world !');
@@ -16,6 +17,12 @@ app.get('/', (req, res) => {
 app.get('/classement/ligue1', (req, res) => {
     res.status(200).send(ligue1);
 });
+
+app.get('/classement/premierleague', (req, res) => {
+    res.status(200).send(premierLeague);
+});
+
+
 
 const port = 4567;
 
