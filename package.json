@@ -13,6 +13,7 @@
     "aws-serverless-express": "^3.4.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "serverless": "^2.32.1"
+    "serverless": "^2.32.1",
+    "serverless-add-api-key": "^4.2.0"
   }
 }

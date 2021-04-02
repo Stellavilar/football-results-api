@@ -2,30 +2,22 @@ const express = require('express');
 
 const router = express.Router();
 
-const ligue1 = require ('../data/ligue1');
-const premierLeague = require ('../data/premierLeague');
-const liga = require ('../data/liga');
-const serieA = require ('../data/seriea');
+//import routes
+const liga = require ('./ligaRouter');
+const ligue1 = require ('./ligue1Router');
+const premierLeague = require ('./premierLRouter');
+const serieA = require ('./serieARouter');
+const bundesliga = require ('./bundesligaRouter');
 
 // homepage
 router.get('/', (req, res) => {
     res.send('Hello world !');
 });
-//ligue 1 ranking
-router.get('/classement/ligue1', (req, res) => {
-    res.status(200).send(ligue1);
-});
-//liga ranking
-router.get('/classement/liga', (req,res) => {
-    res.status(200).send(liga)
-});
-//premier league ranking
-router.get('/classement/premierleague', (req, res) => {
-    res.status(200).send(premierLeague);
-});
-//serie a ranking
-router.get('/classement/seriea', (req, res) => {
-    res.status(200).send(serieA);
-});
+
+router.use('/', liga);
+router.use('/', ligue1);
+router.use('/', premierLeague);
+router.use('/', serieA);
+router.use('/', bundesliga);
 
 module.exports = router;
