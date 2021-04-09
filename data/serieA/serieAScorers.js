@@ -9,7 +9,7 @@ module.exports = {
     "scorers": [
       {
         "playerName": "Cristiano Ronaldo",
-        "goals": 23,
+        "goals": 25,
         "penalties": 5,
         "club": "Juventus Turin",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Juventus_FC_2017_icon_%28black%29.svg/langfr-130px-Juventus_FC_2017_icon_%28black%29.svg.png",
@@ -17,7 +17,7 @@ module.exports = {
       },
       {
         "playerName": "Romelu Lukaku",
-        "goals": 19,
+        "goals": 21,
         "penalties": 5,
         "club": "Inter Milan",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-130px-FC_Internazionale_Milano_2021.svg.png",
@@ -25,7 +25,7 @@ module.exports = {
       },
       {
         "playerName": "Luis Muriel",
-        "goals": 16,
+        "goals": 18,
         "penalties": 1,
         "club": "Atalanta",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/81/Logo_Atalanta_Bergamo.svg/langfr-130px-Logo_Atalanta_Bergamo.svg.png",
@@ -33,19 +33,28 @@ module.exports = {
       },
       {
         "playerName": "Zlatan Ibrahimovic",
-        "goals": 14,
+        "goals": 15,
         "penalties": 3,
-        "club": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-130px-Logo_of_AC_Milan.svg.png",
-        "clubLogo": "AC Milan",
+        "club": "AC milan",
+        "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-130px-Logo_of_AC_Milan.svg.png",
         "number": 4,
       },
       {
-        "playerName": "Ciro Immobile",
-        "goals": 14,
-        "penalties": 3,
-        "club": "Lazio",
-        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/langfr-130px-Logo_Lazio.svg.png",
+        "playerName": "Lorenzo Insigne",
+        "goals": 15,
+        "penalties": 6,
+        "club": "Naples",
+        "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/langfr-130px-SSC_Neapel.svg.png",
         "number": 5,
-      }
+      },
+      
+      // {
+      //   "playerName": "Simy Nwankwo",
+      //   "goals": 15,
+      //   "penalties": 6,
+      //   "club": "Crotone",
+      //   "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/FC_Crotone_%28logo%29.svg/langfr-130px-FC_Crotone_%28logo%29.svg.png",
+      //   "number": 5,
+      // }
     ]
   }

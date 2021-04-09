@@ -26,20 +26,20 @@ module.exports = {
             "number": 2,
         },
         {
+            "playerName": "Gerard Moreno",
+            "goals": 19,
+            "penalties": 9,
+            "club": "Villareal",
+            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Villarreal_CF_logo.svg/langfr-130px-Villarreal_CF_logo.svg.png",
+            "number": 3
+        },
+        {
             "playerName": "Karim Benzema",
-            "goals": 17,
+            "goals": 18,
             "penalties": 0,
             "club": "Real Madrid",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-130px-Logo_Real_Madrid.svg.png",
-            "number": 3,
-        },
-        {
-            "playerName": "Gerard Moreno",
-            "goals": 16,
-            "penalties": 7,
-            "club": "Villareal",
-            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Villarreal_CF_logo.svg/langfr-130px-Villarreal_CF_logo.svg.png",
-            "number": 4
+            "number": 4,
         },
         {
             "playerName": "Youssef En-Nesyri",

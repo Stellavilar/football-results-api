@@ -8,23 +8,24 @@ module.exports = {
         }
     ],
     "scorers": [
-
-        {
-            "playerName": "Mohamed Salah",
-            "goals": 17,
-            "penalties": 6,
-            "club": "Liverpool",
-            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/langfr-130px-Logo_FC_Liverpool.svg.png",
-            "number": 1,
-        },
         {
             "playerName": "Harry Kane",
-            "goals": 17,
+            "goals": 19,
             "penalties": 4,
             "club": "Tottenham",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/langfr-130px-Logo_Tottenham_Hotspur.svg.png",
+            "number": 1,
+        },
+
+        {
+            "playerName": "Mohamed Salah",
+            "goals": 18,
+            "penalties": 6,
+            "club": "Liverpool",
+            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/langfr-130px-Logo_FC_Liverpool.svg.png",
             "number": 2,
         },
+        
         {
             "playerName": "Bruno Fernandes",
             "goals": 16,
