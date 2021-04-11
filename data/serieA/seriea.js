@@ -13,13 +13,13 @@ module.exports = {
         },
         {
           "team": "AC Milan",
-          "played": 29,
-          "win": 18,
+          "played": 30,
+          "win": 19,
           "draw": 6,
           "loss": 5,
-          "goalsFor": 54,
-          "goalsAgainst": 34,
-          "points": 60,
+          "goalsFor": 57,
+          "goalsAgainst": 35,
+          "points": 63,
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-130px-Logo_of_AC_Milan.svg.png"
         },
         {
@@ -123,12 +123,12 @@ module.exports = {
         },
         {
           "team": "Udinese",
-          "played": 29,
+          "played": 30,
           "win": 8,
           "draw": 9,
-          "loss": 12,
+          "loss": 13,
           "goalsFor": 32,
-          "goalsAgainst": 39,
+          "goalsAgainst": 40,
           "points": 33,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/langfr-130px-Logo_Udinese_Calcio_2010.svg.png"
         },
@@ -142,6 +142,17 @@ module.exports = {
           "goalsAgainst": 41,
           "points": 32,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_1998.svg/langfr-130px-Logo_Genoa_CFC_1998.svg.png"
+        },
+        {
+          "team": "Spezia",
+          "played": 30,
+          "win": 8,
+          "draw": 8,
+          "loss": 14,
+          "goalsFor": 40,
+          "goalsAgainst": 55,
+          "points": 32,
+          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Spezia_Calcio.svg/langfr-130px-Spezia_Calcio.svg.png"
         },
         {
             "team": "Fiorentina",
@@ -165,17 +176,7 @@ module.exports = {
           "points": 30,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Benevento_Calcio_%28logo%29.svg/langfr-130px-Benevento_Calcio_%28logo%29.svg.png"
         },
-        {
-          "team": "Spezia",
-          "played": 29,
-          "win": 7,
-          "draw": 8,
-          "loss": 14,
-          "goalsFor": 37,
-          "goalsAgainst": 53,
-          "points": 29,
-          "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Spezia_Calcio.svg/langfr-130px-Spezia_Calcio.svg.png"
-        },
+        
         {
           "team": "Torino",
           "played": 28,
@@ -200,23 +201,23 @@ module.exports = {
         },
         {
           "team": "Parma",
-          "played": 29,
+          "played": 30,
           "win": 3,
           "draw": 11,
-          "loss": 15,
-          "goalsFor": 28,
-          "goalsAgainst": 56,
+          "loss": 16,
+          "goalsFor": 29,
+          "goalsAgainst": 59,
           "points": 20,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Parma_Calcio_1913_logo.svg/langfr-130px-Parma_Calcio_1913_logo.svg.png"
         },
         {
           "team": "Crotone",
-          "played": 29,
+          "played": 30,
           "win": 4,
           "draw": 3,
-          "loss": 22,
-          "goalsFor": 35,
-          "goalsAgainst": 74,
+          "loss": 23,
+          "goalsFor": 37,
+          "goalsAgainst": 77,
           "points": 15,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/FC_Crotone_%28logo%29.svg/langfr-130px-FC_Crotone_%28logo%29.svg.png"
         }

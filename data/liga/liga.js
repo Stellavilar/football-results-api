@@ -1,6 +1,17 @@
 module.exports = {
 
     "records": [
+      {
+        "team": "Real Madrid",
+        "played": 30,
+        "win": 20,
+        "draw": 6,
+        "loss": 4,
+        "goalsFor": 53,
+        "goalsAgainst": 24,
+        "points": 66,
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-130px-Logo_Real_Madrid.svg.png"
+      },
         {
           "team": "Atletico Madrid",
           "played": 29,
@@ -14,25 +25,14 @@ module.exports = {
         },
         {
           "team": "Barcelona",
-          "played": 29,
+          "played": 30,
           "win": 20,
           "draw": 5,
-          "loss": 4,
-          "goalsFor": 68,
-          "goalsAgainst": 24,
+          "loss": 5,
+          "goalsFor": 69,
+          "goalsAgainst": 26,
           "points": 65,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/langfr-130px-Logo_FC_Barcelona.svg.png"
-        },
-        {
-          "team": "Real Madrid",
-          "played": 29,
-          "win": 19,
-          "draw": 6,
-          "loss": 4,
-          "goalsFor": 51,
-          "goalsAgainst": 23,
-          "points": 63,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-130px-Logo_Real_Madrid.svg.png"
         },
         {
           "team": "Sevilla",
@@ -79,6 +79,17 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Villarreal_CF_logo.svg/langfr-130px-Villarreal_CF_logo.svg.png"
         },
         {
+          "team": "Levante",
+          "played": 30,
+          "win": 9,
+          "draw": 11,
+          "loss": 10,
+          "goalsFor": 37,
+          "goalsAgainst": 39,
+          "points": 38,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Levante_UD_2010.svg/langfr-130px-Logo_Levante_UD_2010.svg.png"
+        },
+        {
           "team": "Celta Vigo",
           "played": 29,
           "win": 9,
@@ -88,6 +99,17 @@ module.exports = {
           "goalsAgainst": 44,
           "points": 37,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Logo_RC_Celta_Vigo.svg/langfr-130px-Logo_RC_Celta_Vigo.svg.png"
+        },
+        {
+          "team": "Athletic Bilbao",
+          "played": 30,
+          "win": 9,
+          "draw": 10,
+          "loss": 11,
+          "goalsFor": 39,
+          "goalsAgainst": 33,
+          "points": 37,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Logo_Atlhetic_Bilbao_1995.svg/langfr-130px-Logo_Atlhetic_Bilbao_1995.svg.png"
         },
         {
           "team": "Granada",
@@ -101,26 +123,15 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/langfr-130px-Logo_Granada_CF.svg.png"
         },
         {
-          "team": "Athletic Bilbao",
-          "played": 29,
+          "team": "Cadiz",
+          "played": 30,
           "win": 9,
-          "draw": 9,
-          "loss": 11,
-          "goalsFor": 39,
-          "goalsAgainst": 33,
-          "points": 36,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Logo_Atlhetic_Bilbao_1995.svg/langfr-130px-Logo_Atlhetic_Bilbao_1995.svg.png"
-        },
-        {
-          "team": "Levante",
-          "played": 29,
-          "win": 8,
-          "draw": 11,
-          "loss": 10,
-          "goalsFor": 36,
-          "goalsAgainst": 39,
+          "draw": 8,
+          "loss": 13,
+          "goalsFor": 27,
+          "goalsAgainst": 45,
           "points": 35,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Levante_UD_2010.svg/langfr-130px-Logo_Levante_UD_2010.svg.png"
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/C%C3%A1diz_CF_logo.svg/langfr-130px-C%C3%A1diz_CF_logo.svg.png"
         },
         {
           "team": "Valencia",
@@ -132,17 +143,6 @@ module.exports = {
           "goalsAgainst": 40,
           "points": 33,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_Valencia_CF_2009.svg/langfr-130px-Logo_Valencia_CF_2009.svg.png"
-        },
-        {
-          "team": "Cadiz",
-          "played": 29,
-          "win": 8,
-          "draw": 8,
-          "loss": 13,
-          "goalsFor": 26,
-          "goalsAgainst": 45,
-          "points": 32,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/C%C3%A1diz_CF_logo.svg/langfr-130px-C%C3%A1diz_CF_logo.svg.png"
         },
         {
           "team": "Osasuna",
@@ -157,14 +157,25 @@ module.exports = {
         },
         {
           "team": "Getafe",
-          "played": 29,
+          "played": 30,
           "win": 7,
           "draw": 9,
-          "loss": 13,
+          "loss": 14,
           "goalsFor": 22,
-          "goalsAgainst": 33,
+          "goalsAgainst": 34,
           "points": 30,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/langfr-130px-Getafe_%28logo%29.svg.png"
+        },
+        {
+          "team": "SD Huesca",
+          "played": 30,
+          "win": 5,
+          "draw": 12,
+          "loss": 13,
+          "goalsFor": 31,
+          "goalsAgainst": 45,
+          "points": 27,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_SD_Huesca_2015.svg/langfr-130px-Logo_SD_Huesca_2015.svg.png"
         },
         {
           "team": "Real Valladolid",
@@ -179,47 +190,36 @@ module.exports = {
         },
         {
           "team": "Elche",
-          "played": 29,
+          "played": 30,
           "win": 5,
           "draw": 11,
-          "loss": 13,
-          "goalsFor": 26,
-          "goalsAgainst": 43,
+          "loss": 14,
+          "goalsFor": 27,
+          "goalsAgainst": 46,
           "points": 26,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Elche_CF_logo.svg/langfr-130px-Elche_CF_logo.svg.png"
         },
         {
-          "team": "SD Huesca",
-          "played": 29,
-          "win": 4,
-          "draw": 12,
-          "loss": 13,
-          "goalsFor": 28,
-          "goalsAgainst": 44,
-          "points": 24,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_SD_Huesca_2015.svg/langfr-130px-Logo_SD_Huesca_2015.svg.png"
-        },
-        {
-          "team": "Eibar",
-          "played": 29,
-          "win": 4,
-          "draw": 11,
-          "loss": 14,
-          "goalsFor": 22,
-          "goalsAgainst": 35,
-          "points": 23,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/SD_Eibar_logo.svg/langfr-130px-SD_Eibar_logo.svg.png"
-        },
-        {
           "team": "Deportivo Alaves",
-          "played": 29,
+          "played": 30,
           "win": 5,
-          "draw": 8,
+          "draw": 9,
           "loss": 16,
           "goalsFor": 24,
           "goalsAgainst": 47,
-          "points": 23,
+          "points": 24,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-130px-Deportivo_Alaves_logo_%282020%29.svg.png"
+        },
+        {
+          "team": "Eibar",
+          "played": 30,
+          "win": 4,
+          "draw": 11,
+          "loss": 15,
+          "goalsFor": 22,
+          "goalsAgainst": 36,
+          "points": 23,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/SD_Eibar_logo.svg/langfr-130px-SD_Eibar_logo.svg.png"
         },
     ]
 }

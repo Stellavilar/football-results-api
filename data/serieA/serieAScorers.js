@@ -32,29 +32,30 @@ module.exports = {
         "number": 3,
       },
       {
+        "playerName": "Simy Nwankwo",
+        "goals": 16,
+        "penalties": 6,
+        "club": "Crotone",
+        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/FC_Crotone_%28logo%29.svg/langfr-130px-FC_Crotone_%28logo%29.svg.png",
+        "number": 4,
+      },
+      {
         "playerName": "Zlatan Ibrahimovic",
         "goals": 15,
         "penalties": 3,
         "club": "AC milan",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/langfr-130px-Logo_of_AC_Milan.svg.png",
-        "number": 4,
-      },
-      {
-        "playerName": "Lorenzo Insigne",
-        "goals": 15,
-        "penalties": 6,
-        "club": "Naples",
-        "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/langfr-130px-SSC_Neapel.svg.png",
         "number": 5,
       },
-      
       // {
-      //   "playerName": "Simy Nwankwo",
+      //   "playerName": "Lorenzo Insigne",
       //   "goals": 15,
       //   "penalties": 6,
-      //   "club": "Crotone",
-      //   "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/FC_Crotone_%28logo%29.svg/langfr-130px-FC_Crotone_%28logo%29.svg.png",
+      //   "club": "Naples",
+      //   "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/langfr-130px-SSC_Neapel.svg.png",
       //   "number": 5,
-      // }
+      // },
+      
+      
     ]
   }

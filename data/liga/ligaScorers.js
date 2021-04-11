@@ -35,7 +35,7 @@ module.exports = {
         },
         {
             "playerName": "Karim Benzema",
-            "goals": 18,
+            "goals": 19,
             "penalties": 0,
             "club": "Real Madrid",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-130px-Logo_Real_Madrid.svg.png",

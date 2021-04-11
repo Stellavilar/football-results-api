@@ -21,13 +21,13 @@ module.exports = {
         "referee": "",
         "team1": {
             "teamName": "Reims",
-            "teamScore": ""
+            "teamScore": 2
         },
         "team2": {
             "teamName": "Rennes",
-            "teamScore": ""
+            "teamScore": 2
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         },
         {
         "when": "Dimanche 4 avril 2021",
@@ -35,13 +35,13 @@ module.exports = {
         "referee": "",
         "team1": {
             "teamName": "Angers",
-            "teamScore": ""
+            "teamScore": 1
         },
         "team2": {
             "teamName": "Montpellier",
-            "teamScore": ""
+            "teamScore": 1
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         },
         {
         "when": "Dimanche 4 avril 2021",
@@ -49,13 +49,13 @@ module.exports = {
         "referee": "",
         "team1": {
             "teamName": "Bordeaux",
-            "teamScore": ""
+            "teamScore": 2
         },
         "team2": {
             "teamName": "Strasbourg",
-            "teamScore": ""
+            "teamScore": 3
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         },
         {
         "when": "Samedi 3 avril 2021",
@@ -77,13 +77,13 @@ module.exports = {
         "referee": "",
         "team1": {
             "teamName": "Lorient",
-            "teamScore": ""
+            "teamScore": 1
         },
         "team2": {
             "teamName": "Brest",
-            "teamScore": ""
+            "teamScore": 0
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         },
         {
         "when": "Dimanche 4 avril 2021",
@@ -91,13 +91,13 @@ module.exports = {
         "referee": "",
         "team1": {
             "teamName": "Marseille",
-            "teamScore": ""
+            "teamScore": 2
         },
         "team2": {
             "teamName": "Dijon",
-            "teamScore": ""
+            "teamScore": 0
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         },
         {
         "when": "Samedi 3 avril 2021",
@@ -119,13 +119,13 @@ module.exports = {
         "referee": "",
         "team1": {
             "teamName": "Nantes",
-            "teamScore": ""
+            "teamScore": 1
         },
         "team2": {
             "teamName": "Nice",
-            "teamScore": ""
+            "teamScore": 2
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         },
         {
         "when": "Dimanche 4 avril 2021",
@@ -133,13 +133,13 @@ module.exports = {
         "referee": "",
         "team1": {
             "teamName": "Nimes",
-            "teamScore": ""
+            "teamScore": 0
         },
         "team2": {
             "teamName": "Saint-Etienne",
-            "teamScore": ""
+            "teamScore": 2
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         }
     ],
     "day32": [
@@ -148,36 +148,42 @@ module.exports = {
         "hour": "21:00",
         "referee": "",
         "team1": {
-            "teamName": "Metz"
+            "teamName": "Metz",
+            "teamScore": 0
         },
         "team2": {
-            "teamName": "Lille"
+            "teamName": "Lille",
+            "teamScore": 2
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
         },
         {
             "when": "Samedi 10 avril 2021",
             "hour": "17:00",
             "referee": "",
             "team1": {
-                "teamName": "Strasbourg"
+                "teamName": "Strasbourg",
+                "teamScore":1
             },
             "team2": {
-                "teamName": "Paris Saint-Germain"
+                "teamName": "Paris Saint-Germain",
+                "teamScore": 4
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
             },
             {
             "when": "Samedi 10 avril 2021",
             "hour": "21:00",
             "referee": "",
             "team1": {
-                "teamName": "Montpellier"
+                "teamName": "Montpellier",
+                "teamScore": 3
             },
             "team2": {
-                "teamName": "Marseille"
+                "teamName": "Marseille",
+                "teamScore": 3
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
             },
             {
             "when": "Dimanche 11 avril 2021 ",

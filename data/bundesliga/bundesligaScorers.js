@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         "playerName": "André Silva",
-        "goals": 22,
+        "goals": 23,
         "penalties": 6,
         "club": "Eintracht Francfurt",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/langfr-130px-Eintracht_Frankfurt_Logo.svg.png",
@@ -35,7 +35,7 @@ module.exports = {
       
       {
         "playerName": "Wout Weghorst",
-        "goals": 17,
+        "goals": 18,
         "penalties": 2,
         "club": "Wolfsburg",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/langfr-170px-Logo-VfL-Wolfsburg.svg.png",

@@ -3,12 +3,12 @@ module.exports = {
     "records": [
         {
           "team": "Manchester City",
-          "played": 31,
+          "played": 32,
           "win": 23,
           "draw": 5,
           "loss": 3,
-          "goalsFor": 66,
-          "goalsAgainst": 21,
+          "goalsFor": 67,
+          "goalsAgainst": 23,
           "points": 74,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-130px-Logo_Manchester_City_2016.svg.png"
         },
@@ -35,6 +35,28 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Leicester_City.svg/langfr-130px-Leicester_City.svg.png"
         },
         {
+          "team": "Chelsea",
+          "played": 31,
+          "win": 15,
+          "draw": 9,
+          "loss": 7,
+          "goalsFor": 50,
+          "goalsAgainst": 31,
+          "points": 54,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-130px-Logo_Chelsea.svg.png"
+        },
+        {
+          "team": "Liverpool",
+          "played": 31,
+          "win": 15,
+          "draw": 7,
+          "loss": 9,
+          "goalsFor": 53,
+          "goalsAgainst": 37,
+          "points": 52,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/langfr-130px-Logo_FC_Liverpool.svg.png"
+        },
+        {
           "team": "West Ham",
           "played": 30,
           "win": 15,
@@ -44,17 +66,6 @@ module.exports = {
           "goalsAgainst": 37,
           "points": 52,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/West_Ham_United_FC_logo.svg/langfr-130px-West_Ham_United_FC_logo.svg.png"
-        },
-        {
-          "team": "Chelsea",
-          "played": 30,
-          "win": 14,
-          "draw": 9,
-          "loss": 7,
-          "goalsFor": 46,
-          "goalsAgainst": 30,
-          "points": 51,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/langfr-130px-Logo_Chelsea.svg.png"
         },
         {
           "team": "Tottenham",
@@ -68,17 +79,6 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/langfr-130px-Logo_Tottenham_Hotspur.svg.png"
         },
         {
-          "team": "Liverpool",
-          "played": 30,
-          "win": 14,
-          "draw": 7,
-          "loss": 9,
-          "goalsFor": 51,
-          "goalsAgainst": 36,
-          "points": 49,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/langfr-130px-Logo_FC_Liverpool.svg.png"
-        },
-        {
           "team": "Everton",
           "played": 29,
           "win": 14,
@@ -88,6 +88,17 @@ module.exports = {
           "goalsAgainst": 38,
           "points": 47,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Everton_FC_2014.svg/langfr-130px-Logo_Everton_FC_2014.svg.png"
+        },
+        {
+          "team": "Leeds United",
+          "played": 31,
+          "win": 14,
+          "draw": 3,
+          "loss": 14,
+          "goalsFor": 49,
+          "goalsAgainst": 49,
+          "points": 45,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/langfr-130px-Logo_Leeds_United_FC.svg.png"
         },
         {
           "team": "Aston Villa",
@@ -112,24 +123,24 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/langfr-130px-Arsenal_FC.svg.png"
         },
         {
-          "team": "Leeds United",
-          "played": 30,
-          "win": 13,
-          "draw": 3,
-          "loss": 14,
-          "goalsFor": 47,
-          "goalsAgainst": 48,
-          "points": 42,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_Leeds_United_FC.svg/langfr-130px-Logo_Leeds_United_FC.svg.png"
+          "team": "Wolves",
+          "played": 31,
+          "win": 10,
+          "draw": 8,
+          "loss": 13,
+          "goalsFor": 31,
+          "goalsAgainst": 41,
+          "points": 38,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-130px-Wolverhampton_Wanderers.svg.png"
         },
         {
           "team": "Crystal Palace",
-          "played": 30,
+          "played": 31,
           "win": 10,
           "draw": 8,
-          "loss": 12,
-          "goalsFor": 32,
-          "goalsAgainst": 48,
+          "loss": 13,
+          "goalsFor": 33,
+          "goalsAgainst": 52,
           "points": 38,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Crystal_Palace_FC_logo.svg/langfr-130px-Crystal_Palace_FC_logo.svg.png"
         },
@@ -143,17 +154,6 @@ module.exports = {
           "goalsAgainst": 53,
           "points": 36,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Southampton_FC.svg/langfr-130px-Southampton_FC.svg.png"
-        },
-        {
-          "team": "Wolves",
-          "played": 30,
-          "win": 9,
-          "draw": 8,
-          "loss": 13,
-          "goalsFor": 30,
-          "goalsAgainst": 41,
-          "points": 35,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/langfr-130px-Wolverhampton_Wanderers.svg.png"
         },
         {
           "team": "Burnley",
