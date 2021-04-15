@@ -216,11 +216,11 @@ module.exports = {
             "hour": "20:00",
             "team1": {
               "teamName": "Sheffield United",
-              "teamScore":""
+              "teamScore":0
             },
             "team2": {
               "teamName": "Arsenal",
-              "teamScore":""
+              "teamScore":3
             },
             "color": "ffffff"
           },
@@ -229,11 +229,11 @@ module.exports = {
             "hour": "17:30",
             "team1": {
               "teamName": "Tottenham",
-              "teamScore":""
+              "teamScore":1
             },
             "team2": {
               "teamName": "Manchester United",
-              "teamScore":""
+              "teamScore":3
             },
             "color": "ffffff"
           },
@@ -242,11 +242,11 @@ module.exports = {
             "hour": "13:00",
             "team1": {
               "teamName": "Burnley",
-              "teamScore":""
+              "teamScore":1
             },
             "team2": {
               "teamName": "Newcastle United",
-              "teamScore":""
+              "teamScore":2
             },
             "color": "ffffff"
           },
@@ -255,11 +255,11 @@ module.exports = {
             "hour": "15:05",
             "team1": {
               "teamName": "West Ham",
-              "teamScore":""
+              "teamScore":3
             },
             "team2": {
               "teamName": "Leicester",
-              "teamScore":""
+              "teamScore":3
             },
             "color": "ffffff"
           },
@@ -268,11 +268,11 @@ module.exports = {
             "hour": "21:00",
             "team1": {
               "teamName": "Brighton",
-              "teamScore":""
+              "teamScore":0
             },
             "team2": {
               "teamName": "Everton",
-              "teamScore":""
+              "teamScore":0
             },
             "color": "ffffff"
           },
@@ -281,11 +281,11 @@ module.exports = {
             "hour": "19:00",
             "team1": {
               "teamName": "West Bromwich Albion",
-              "teamScore":""
+              "teamScore":3
             },
             "team2": {
               "teamName": "Southampton",
-              "teamScore":""
+              "teamScore":0
             },
             "color": "ffffff"
           },

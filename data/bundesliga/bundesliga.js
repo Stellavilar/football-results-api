@@ -58,13 +58,13 @@ module.exports = {
       },
       {
         "team": "Bayer Leverkusen",
-        "played": 27,
+        "played": 28,
         "win": 12,
-        "draw": 7,
+        "draw": 8,
         "loss": 8,
         "goalsFor": 45,
         "goalsAgainst": 32,
-        "points": 43,
+        "points": 44,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-130px-Bayer_04_Leverkusen_%28logo%29.svg.png"
       },
       {
@@ -113,12 +113,12 @@ module.exports = {
       },
       {
         "team": "Augsburg",
-        "played": 27,
+        "played": 28,
         "win": 9,
         "draw": 5,
-        "loss": 13,
+        "loss": 14,
         "goalsFor": 29,
-        "goalsAgainst": 41,
+        "goalsAgainst": 42,
         "points": 32,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/langfr-130px-FC_Augsburg_-_Logo.svg.png"
       },
@@ -145,6 +145,17 @@ module.exports = {
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/langfr-130px-SV-Werder-Bremen-Logo.svg.png"
       },
       {
+        "team": "Mainz 05",
+        "played": 28,
+        "win": 7,
+        "draw": 7,
+        "loss": 14,
+        "goalsFor": 30,
+        "goalsAgainst": 48,
+        "points": 28,
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/FSV_Mainz_05.png/130px-FSV_Mainz_05.png"
+      },
+      {
         "team": "Hertha Berlin",
         "played": 28,
         "win": 6,
@@ -167,36 +178,25 @@ module.exports = {
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Arminia_Bielefeld.svg/langfr-130px-Logo_Arminia_Bielefeld.svg.png"
       },
       {
-        "team": "Mainz 05",
-        "played": 27,
-        "win": 6,
-        "draw": 7,
-        "loss": 14,
-        "goalsFor": 27,
-        "goalsAgainst": 46,
-        "points": 25,
-        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/FSV_Mainz_05.png/130px-FSV_Mainz_05.png"
-      },
-      {
         "team": "FC Koln",
-        "played": 27,
+        "played": 28,
         "win": 5,
         "draw": 8,
-        "loss": 14,
-        "goalsFor": 25,
-        "goalsAgainst": 47,
+        "loss": 15,
+        "goalsFor": 27,
+        "goalsAgainst": 50,
         "points": 23,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FC_Cologne_%28logo%29.svg/langfr-130px-FC_Cologne_%28logo%29.svg.png"
       },
       {
         "team": "Schalke 04",
-        "played": 27,
-        "win": 1,
+        "played": 28,
+        "win": 2,
         "draw": 7,
         "loss": 19,
-        "goalsFor": 17,
+        "goalsFor": 18,
         "goalsAgainst": 71,
-        "points": 10,
+        "points": 13,
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/FC_Schalke_04_Logo.svg/langfr-130px-FC_Schalke_04_Logo.svg.png"
       }
     ]

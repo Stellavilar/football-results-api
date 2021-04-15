@@ -2,6 +2,17 @@ module.exports = {
 
     "records": [
       {
+        "team": "Atletico Madrid",
+        "played": 30,
+        "win": 20,
+        "draw": 7,
+        "loss": 3,
+        "goalsFor": 52,
+        "goalsAgainst": 20,
+        "points": 67,
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/langfr-130px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png"
+      },
+      {
         "team": "Real Madrid",
         "played": 30,
         "win": 20,
@@ -12,17 +23,6 @@ module.exports = {
         "points": 66,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/langfr-130px-Logo_Real_Madrid.svg.png"
       },
-        {
-          "team": "Atletico Madrid",
-          "played": 29,
-          "win": 20,
-          "draw": 6,
-          "loss": 3,
-          "goalsFor": 51,
-          "goalsAgainst": 19,
-          "points": 66,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/langfr-130px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png"
-        },
         {
           "team": "Barcelona",
           "played": 30,
@@ -36,47 +36,58 @@ module.exports = {
         },
         {
           "team": "Sevilla",
-          "played": 29,
-          "win": 18,
+          "played": 30,
+          "win": 19,
           "draw": 4,
           "loss": 7,
-          "goalsFor": 40,
-          "goalsAgainst": 21,
-          "points": 58,
+          "goalsFor": 44,
+          "goalsAgainst": 24,
+          "points": 61,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/langfr-130px-Logo_Sevilla_FC.svg.png"
         },
         {
           "team": "Real Sociedad",
-          "played": 29,
+          "played": 30,
           "win": 12,
-          "draw": 10,
+          "draw": 11,
           "loss": 7,
-          "goalsFor": 45,
-          "goalsAgainst": 29,
-          "points": 46,
+          "goalsFor": 47,
+          "goalsAgainst": 31,
+          "points": 47,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Real_Sociedad_logo.svg/langfr-130px-Real_Sociedad_logo.svg.png"
         },
         {
           "team": "Real Betis",
-          "played": 28,
+          "played": 30,
           "win": 14,
-          "draw": 3,
+          "draw": 5,
           "loss": 11,
-          "goalsFor": 38,
-          "goalsAgainst": 41,
-          "points": 45,
+          "goalsFor": 40,
+          "goalsAgainst": 43,
+          "points": 47,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Real_betis_logo.svg/langfr-130px-Real_betis_logo.svg.png"
         },
         {
           "team": "Villarreal",
-          "played": 29,
+          "played": 30,
           "win": 11,
           "draw": 13,
-          "loss": 5,
-          "goalsFor": 42,
-          "goalsAgainst": 31,
+          "loss": 6,
+          "goalsFor": 43,
+          "goalsAgainst": 33,
           "points": 46,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Villarreal_CF_logo.svg/langfr-130px-Villarreal_CF_logo.svg.png"
+        },
+        {
+          "team": "Granada",
+          "played": 30,
+          "win": 11,
+          "draw": 6,
+          "loss": 13,
+          "goalsFor": 36,
+          "goalsAgainst": 50,
+          "points": 39,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/langfr-130px-Logo_Granada_CF.svg.png"
         },
         {
           "team": "Levante",
@@ -91,12 +102,12 @@ module.exports = {
         },
         {
           "team": "Celta Vigo",
-          "played": 29,
+          "played": 30,
           "win": 9,
           "draw": 10,
-          "loss": 10,
-          "goalsFor": 38,
-          "goalsAgainst": 44,
+          "loss": 11,
+          "goalsFor": 41,
+          "goalsAgainst": 48,
           "points": 37,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Logo_RC_Celta_Vigo.svg/langfr-130px-Logo_RC_Celta_Vigo.svg.png"
         },
@@ -112,17 +123,6 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/28/Logo_Atlhetic_Bilbao_1995.svg/langfr-130px-Logo_Atlhetic_Bilbao_1995.svg.png"
         },
         {
-          "team": "Granada",
-          "played": 29,
-          "win": 10,
-          "draw": 6,
-          "loss": 13,
-          "goalsFor": 34,
-          "goalsAgainst": 49,
-          "points": 36,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/langfr-130px-Logo_Granada_CF.svg.png"
-        },
-        {
           "team": "Cadiz",
           "played": 30,
           "win": 9,
@@ -135,24 +135,24 @@ module.exports = {
         },
         {
           "team": "Valencia",
-          "played": 29,
+          "played": 30,
           "win": 8,
-          "draw": 9,
+          "draw": 10,
           "loss": 12,
-          "goalsFor": 35,
-          "goalsAgainst": 40,
-          "points": 33,
+          "goalsFor": 37,
+          "goalsAgainst": 42,
+          "points": 34,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Logo_Valencia_CF_2009.svg/langfr-130px-Logo_Valencia_CF_2009.svg.png"
         },
         {
           "team": "Osasuna",
-          "played": 29,
-          "win": 7,
+          "played": 30,
+          "win": 8,
           "draw": 10,
           "loss": 12,
-          "goalsFor": 23,
-          "goalsAgainst": 35,
-          "points": 31,
+          "goalsFor": 25,
+          "goalsAgainst": 36,
+          "points": 34,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/99/Logo_CA_Osasuna.svg/langfr-130px-Logo_CA_Osasuna.svg.png"
         },
         {
@@ -179,12 +179,12 @@ module.exports = {
         },
         {
           "team": "Real Valladolid",
-          "played": 29,
+          "played": 30,
           "win": 5,
           "draw": 12,
-          "loss": 12,
-          "goalsFor": 26,
-          "goalsAgainst": 39,
+          "loss": 13,
+          "goalsFor": 27,
+          "goalsAgainst": 41,
           "points": 27,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Logo_Real_Valladolid_CF_1998.svg/langfr-130px-Logo_Real_Valladolid_CF_1998.svg.png"
         },

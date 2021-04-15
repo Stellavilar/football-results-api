@@ -70,65 +70,65 @@ module.exports = {
             "hour": "14:00",
             "team1": {
               "teamName": "Villareal",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Osasuna",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 11 avril 2021",
             "hour": "16:15",
             "team1": {
               "teamName": "Valence",
-              "teamScore": ""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "Real Sociedad",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 11 avril 2021",
             "hour": "18:30",
             "team1": {
               "teamName": "Valladolid",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Grenade",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 11 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Betis Séville",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Atlético Madrid",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Lundi 12 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Celta Vigo",
-              "teamScore": ""
+              "teamScore": 3
             },
             "team2": {
               "teamName": "Séville",
-              "teamScore": ""
+              "teamScore": 4
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           }
     ],
     "day31": [

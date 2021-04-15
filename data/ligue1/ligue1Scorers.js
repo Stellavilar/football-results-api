@@ -17,11 +17,19 @@ module.exports = {
       },
       {
         "playerName": "Wissam Ben Yedder",
-        "goals": 15,
-        "penalties": 8,
+        "goals": 17,
+        "penalties": 9,
         "club": "AS Monaco",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
         "number": 2,
+      },
+      {
+        "playerName": "Memphis Depay",
+        "goals": 16,
+        "penalties": 7,
+        "club": "Olympique Lyonnais",
+        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png",
+        "number": 3,
       },
       {
         "playerName": "Kevin Volland",
@@ -29,7 +37,7 @@ module.exports = {
         "penalties": 0,
         "club": "As Monaco",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
-        "number": 3,
+        "number": 4,
       },
       {
         "playerName": "Boulaye Dia",
@@ -37,15 +45,8 @@ module.exports = {
         "penalties": 5,
         "club": "Reims",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Stade_de_Reims_2020.svg/langfr-130px-Logo_Stade_de_Reims_2020.svg.png",
-        "number": 4,
-      },
-      {
-        "playerName": "Memphis Depay",
-        "goals": 14,
-        "penalties": 7,
-        "club": "Olympique Lyonnais",
-        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png",
         "number": 5,
       },
+      
     ]
   }
