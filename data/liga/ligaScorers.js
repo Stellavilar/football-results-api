@@ -18,20 +18,20 @@ module.exports = {
             "number": 1,
         },
         {
+            "playerName": "Gerard Moreno",
+            "goals": 20,
+            "penalties": 9,
+            "club": "Villareal",
+            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Villarreal_CF_logo.svg/langfr-130px-Villarreal_CF_logo.svg.png",
+            "number": 2
+        },
+        {
             "playerName": "Luis Suárez",
             "goals": 19,
             "penalties": 3,
             "club": "Atlético Madrid",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/langfr-130px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-            "number": 2,
-        },
-        {
-            "playerName": "Gerard Moreno",
-            "goals": 19,
-            "penalties": 9,
-            "club": "Villareal",
-            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Villarreal_CF_logo.svg/langfr-130px-Villarreal_CF_logo.svg.png",
-            "number": 3
+            "number": 3,
         },
         {
             "playerName": "Karim Benzema",
@@ -43,7 +43,7 @@ module.exports = {
         },
         {
             "playerName": "Youssef En-Nesyri",
-            "goals": 15,
+            "goals": 16,
             "penalties": 0,
             "club": "Séville FC",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/langfr-130px-Logo_Sevilla_FC.svg.png",

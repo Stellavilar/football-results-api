@@ -290,120 +290,140 @@ module.exports = {
             "hour": "21:00",
             "referee": "",
             "team1": {
-              "teamName": "Lille"
+              "teamName": "Lille",
+              "teamScore": 1
             },
             "team2": {
-              "teamName": "Montpellier"
+              "teamName": "Montpellier",
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
         {
             "when": "Samedi 17 avril 2021",
             "hour": "13:00",
             "referee": "",
             "team1": {
-              "teamName": "Angers"
+              "teamName": "Angers",
+              "teamScore": 0
             },
             "team2": {
-              "teamName": "Rennes"
+              "teamName": "Rennes",
+              "teamScore": 3
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 17 avril 2021",
             "hour": "17:00",
             "referee": "",
             "team1": {
-              "teamName": "Marseille"
+              "teamName": "Marseille",
+              "teamScore": 3
             },
             "team2": {
-              "teamName": "Lorient"
+              "teamName": "Lorient",
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 18 avril 2021",
-            "hour": "",
+            "hour": "13:00",
             "referee": "",
             "team1": {
-              "teamName": "Paris Saint-Germain"
+              "teamName": "Paris Saint-Germain",
+              "teamScore": 3
             },
             "team2": {
-              "teamName": "Saint-Etienne"
+              "teamName": "Saint-Etienne",
+              "teamScore": 2
             },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 18 avril 2021",
-            "hour": "15:00",
-            "referee": "",
-            "team1": {
-              "teamName": "Brest"
-            },
-            "team2": {
-              "teamName": "Lens"
-            },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 18 avril 2021",
             "hour": "15:00",
             "referee": "",
             "team1": {
-              "teamName": "Nimes"
+              "teamName": "Brest",
+              "teamScore": 1
             },
             "team2": {
-              "teamName": "Strasbourg"
+              "teamName": "Lens",
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 18 avril 2021",
             "hour": "15:00",
             "referee": "",
             "team1": {
-              "teamName": "Reims"
+              "teamName": "Nimes", 
+              "teamScore":1
             },
             "team2": {
-              "teamName": "Metz"
+              "teamName": "Strasbourg",
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 18 avril 2021",
             "hour": "15:00",
             "referee": "",
             "team1": {
-              "teamName": "Dijon"
+              "teamName": "Reims",
+              "teamScore": 0
             },
             "team2": {
-              "teamName": "Nice"
+              "teamName": "Metz",
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
+          },
+          {
+            "when": "Dimanche 18 avril 2021",
+            "hour": "15:00",
+            "referee": "",
+            "team1": {
+              "teamName": "Dijon",
+              "teamScore": 2
+            },
+            "team2": {
+              "teamName": "Nice",
+              "teamScore": 0
+            },
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 18 avril 2021",
             "hour": "17:05",
             "referee": "",
             "team1": {
-              "teamName": "Bordeaux"
+              "teamName": "Bordeaux",
+              "teamScore": 0
             },
             "team2": {
-              "teamName": "Monaco"
+              "teamName": "Monaco",
+              "teamScore": 3
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 18 avril 2021",
             "hour": "21:00",
             "referee": "",
             "team1": {
-              "teamName": "Nantes"
+              "teamName": "Nantes",
+              "teamScore": 1
             },
             "team2": {
-              "teamName": "Lyon"
+              "teamName": "Lyon",
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           
           
@@ -524,9 +544,42 @@ module.exports = {
 
     ],
     "day35": [
+      {
+        "when": "Vendredi 30 avril 2021",
+        "hour": "21:00",
+        "referee" : "",
+        "team1": {
+          "teamName": "Marseille"
+        },
+        "team2": {
+          "teamName": "Strasbourg"
+        }
+      },
+      {
+        "when": "Samedi 01 mai 2021",
+        "hour": "17:00",
+        "referee" : "",
+        "team1": {
+          "teamName": "Paris Saint-Germain"
+        },
+        "team2": {
+          "teamName": "Lens"
+        }
+      },
+      {
+        "when": "Samedi 01 mai 2021",
+        "hour": "21:00",
+        "referee" : "",
+        "team1": {
+          "teamName": "Lille"
+        },
+        "team2": {
+          "teamName": "Nice"
+        }
+      },
         {
-            "when": "",
-            "hour": "",
+            "when": "Dimanche 02 mai 2021",
+            "hour": "13:00",
             "referee" : "",
             "team1": {
               "teamName": "Bordeaux"
@@ -536,85 +589,8 @@ module.exports = {
             }
           },
           {
-            "when": "",
-            "hour": "",
-            "referee" : "",
-            "team1": {
-              "teamName": "Brest"
-            },
-            "team2": {
-              "teamName": "Nantes"
-            }
-          },
-          {
-            "when": "",
-            "hour": "",
-            "referee" : "",
-            "team1": {
-              "teamName": "Dijon"
-            },
-            "team2": {
-              "teamName": "Metz"
-            }
-          },
-          {
-            "when": "",
-            "hour": "",
-            "referee" : "",
-            "team1": {
-              "teamName": "Lille"
-            },
-            "team2": {
-              "teamName": "Nice"
-            }
-          },
-          {
-            "when": "",
-            "hour": "",
-            "referee" : "",
-            "team1": {
-              "teamName": "Lorient"
-            },
-            "team2": {
-              "teamName": "Angers"
-            }
-          },
-          {
-            "when": "",
-            "hour": "",
-            "referee" : "",
-            "team1": {
-              "teamName": "Marseille"
-            },
-            "team2": {
-              "teamName": "Strasbourg"
-            }
-          },
-          {
-            "when": "",
-            "hour": "",
-            "referee" : "",
-            "team1": {
-              "teamName": "Monaco"
-            },
-            "team2": {
-              "teamName": "Lyon"
-            }
-          },
-          {
-            "when": "",
-            "hour": "",
-            "referee" : "",
-            "team1": {
-              "teamName": "Montpellier"
-            },
-            "team2": {
-              "teamName": "Saint-Etienne"
-            }
-          },
-          {
-            "when": "",
-            "hour": "",
+            "when": "Dimanche 02 mai 2021",
+            "hour": "15:00",
             "referee" : "",
             "team1": {
               "teamName": "Nimes"
@@ -624,16 +600,63 @@ module.exports = {
             }
           },
           {
-            "when": "",
-            "hour": "",
+            "when": "Dimanche 02 mai 2021",
+            "hour": "15:00",
             "referee" : "",
             "team1": {
-              "teamName": "Paris Saint-Germain"
+              "teamName": "Brest"
             },
             "team2": {
-              "teamName": "Lens"
+              "teamName": "Nantes"
             }
-          }
+          },
+          {
+            "when": "Dimanche 02 mai 2021",
+            "hour": "15:00",
+            "referee" : "",
+            "team1": {
+              "teamName": "Dijon"
+            },
+            "team2": {
+              "teamName": "Metz"
+            }
+          },
+          {
+            "when": "Dimanche 02 mai 2021",
+            "hour": "15:00",
+            "referee" : "",
+            "team1": {
+              "teamName": "Lorient"
+            },
+            "team2": {
+              "teamName": "Angers"
+            }
+          },
+          {
+            "when": "Dimanche 02 mai 2021",
+            "hour": "17:05",
+            "referee" : "",
+            "team1": {
+              "teamName": "Montpellier"
+            },
+            "team2": {
+              "teamName": "Saint-Etienne"
+            }
+          },
+          {
+            "when": "Dimanche 02 mai 2021",
+            "hour": "21:00",
+            "referee" : "",
+            "team1": {
+              "teamName": "Monaco"
+            },
+            "team2": {
+              "teamName": "Lyon"
+            }
+          },
+          
+          
+          
     ],
     "day36": [
         {

@@ -9,11 +9,19 @@ module.exports = {
     "scorers": [
       {
         "playerName": "Kylian Mbappé",
-        "goals": 21,
-        "penalties": 5,
+        "goals": 23,
+        "penalties": 6,
         "club": "Paris Saint Germain",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/600px-Paris_Saint-Germain_Logo.svg.png",
         "number": 1,
+      },
+      {
+        "playerName": "Memphis Depay",
+        "goals": 18,
+        "penalties": 8,
+        "club": "Olympique Lyonnais",
+        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png",
+        "number": 2,
       },
       {
         "playerName": "Wissam Ben Yedder",
@@ -21,19 +29,11 @@ module.exports = {
         "penalties": 9,
         "club": "AS Monaco",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
-        "number": 2,
-      },
-      {
-        "playerName": "Memphis Depay",
-        "goals": 16,
-        "penalties": 7,
-        "club": "Olympique Lyonnais",
-        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png",
         "number": 3,
       },
       {
         "playerName": "Kevin Volland",
-        "goals": 14,
+        "goals": 15,
         "penalties": 0,
         "club": "As Monaco",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
