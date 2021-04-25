@@ -14,13 +14,13 @@ module.exports = {
       },
       {
         "team": "RB Leipzig",
-        "played": 30,
-        "win": 18,
+        "played": 31,
+        "win": 19,
         "draw": 7,
         "loss": 5,
-        "goalsFor":53,
+        "goalsFor":55,
         "goalsAgainst": 25,
-        "points": 61,
+        "points": 64,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/RB_Leipzig_2014_logo.svg/langfr-220px-RB_Leipzig_2014_logo.svg.png"
       },
       {
@@ -68,6 +68,17 @@ module.exports = {
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-130px-Bayer_04_Leverkusen_%28logo%29.svg.png"
       },
       {
+        "team": "Borussia M.Gladbach",
+        "played": 31,
+        "win": 12,
+        "draw": 10,
+        "loss": 9,
+        "goalsFor": 54,
+        "goalsAgainst": 46,
+        "points": 43,
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/langfr-130px-Borussia_M%C3%B6nchengladbach_logo.svg.png"
+      },
+      {
         "team": "Union Berlin",
         "played": 31,
         "win": 11,
@@ -77,17 +88,6 @@ module.exports = {
         "goalsAgainst": 38,
         "points": 46,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/1._FC_Union_Berlin_-_Logo.svg/langfr-130px-1._FC_Union_Berlin_-_Logo.svg.png"
-      },
-      {
-        "team": "Borussia M.Gladbach",
-        "played": 30,
-        "win": 11,
-        "draw": 10,
-        "loss": 9,
-        "goalsFor": 54,
-        "goalsAgainst": 46,
-        "points": 43,
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Borussia_M%C3%B6nchengladbach_logo.svg/langfr-130px-Borussia_M%C3%B6nchengladbach_logo.svg.png"
       },
       {
         "team": "Freiburg",
@@ -102,12 +102,12 @@ module.exports = {
       },
       {
         "team": "VfB Stuttgart",
-        "played": 30,
+        "played": 31,
         "win": 10,
         "draw": 9,
-        "loss": 11,
+        "loss": 12,
         "goalsFor": 52,
-        "goalsAgainst": 49,
+        "goalsAgainst": 51,
         "points": 39,
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png"
       },
@@ -157,12 +157,12 @@ module.exports = {
       },
       {
         "team": "Arminia Bielefeld",
-        "played": 30,
+        "played": 31,
         "win": 8,
         "draw": 6,
-        "loss": 16,
+        "loss": 17,
         "goalsFor": 23,
-        "goalsAgainst": 46,
+        "goalsAgainst": 51,
         "points": 30,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Arminia_Bielefeld.svg/langfr-130px-Logo_Arminia_Bielefeld.svg.png"
       },

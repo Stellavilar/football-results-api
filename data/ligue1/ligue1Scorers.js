@@ -25,7 +25,7 @@ module.exports = {
       },
       {
         "playerName": "Wissam Ben Yedder",
-        "goals": 17,
+        "goals": 18,
         "penalties": 9,
         "club": "AS Monaco",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
