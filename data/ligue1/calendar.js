@@ -436,33 +436,42 @@ module.exports = {
             "hour": "21:00",
             "referee": "",
             "team1": {
-              "teamName": "Reims"
+              "teamName": "Reims",
+              "teamScore": 1
             },
             "team2": {
-              "teamName": "Marseille"
-            }
+              "teamName": "Marseille",
+              "teamScore": 3
+            },
+            "color": "#ecf0f1",
         },
         {
             "when": "Samedi 24 avril 2021",
             "hour": "13:00",
             "referee": "",
             "team1": {
-              "teamName": "Saint-Etienne"
+              "teamName": "Saint-Etienne",
+              "teamScore": 1
             },
             "team2": {
-              "teamName": "Brest"
-            }
+              "teamName": "Brest",
+              "teamScore": 2
+            },
+            "color": "#ecf0f1",
           },
           {
             "when": "Samedi 24 avril 2021",
             "hour": "17:00",
             "referee": "",
             "team1": {
-              "teamName": "Metz"
+              "teamName": "Metz",
+              "teamScore": 1
             },
             "team2": {
-              "teamName": "Paris Saint-Germain"
-            }
+              "teamName": "Paris Saint-Germain",
+              "teamScore": 3
+            },
+            "color": "#ecf0f1",
           },
           {
             "when": "Dimanche 25 avril 2021",

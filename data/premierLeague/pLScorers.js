@@ -18,7 +18,7 @@ module.exports = {
         },
         {
             "playerName": "Mohamed Salah",
-            "goals": 19,
+            "goals": 20,
             "penalties": 6,
             "club": "Liverpool",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/langfr-130px-Logo_FC_Liverpool.svg.png",
@@ -34,8 +34,8 @@ module.exports = {
         },
         {
             "playerName": "Son Heung-Min",
-            "goals": 14,
-            "penalties": 0,
+            "goals": 15,
+            "penalties": 1,
             "club": "Tottenham",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/langfr-130px-Logo_Tottenham_Hotspur.svg.png",
             "number": 4

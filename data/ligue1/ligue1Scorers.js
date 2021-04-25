@@ -9,7 +9,7 @@ module.exports = {
     "scorers": [
       {
         "playerName": "Kylian Mbappé",
-        "goals": 23,
+        "goals": 25,
         "penalties": 6,
         "club": "Paris Saint Germain",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/600px-Paris_Saint-Germain_Logo.svg.png",

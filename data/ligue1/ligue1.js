@@ -2,6 +2,17 @@ module.exports = {
     
     "records": [
       {
+        "team": "Paris Saint-Germain",
+        "played": 34,
+        "win": 23,
+        "draw": 3,
+        "loss": 8,
+        "goalsFor": 77,
+        "goalsAgainst": 26,
+        "points": 72,
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/600px-Paris_Saint-Germain_Logo.svg.png"
+      },
+      {
         "team": "Lille",
         "played": 33,
         "win": 20,
@@ -12,17 +23,6 @@ module.exports = {
         "points": 70,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/langfr-130px-Logo_LOSC_Lille_2018.svg.png"
       },
-        {
-          "team": "Paris Saint-Germain",
-          "played": 33,
-          "win": 21,
-          "draw": 3,
-          "loss": 8,
-          "goalsFor": 74,
-          "goalsAgainst": 25,
-          "points": 69,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/600px-Paris_Saint-Germain_Logo.svg.png"
-        },
         {
           "team": "Monaco",
           "played": 33,
@@ -46,6 +46,17 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png"
         },
         {
+          "team": "Marseille",
+          "played": 34,
+          "win": 15,
+          "draw": 10,
+          "loss": 9,
+          "goalsFor": 49,
+          "goalsAgainst": 42,
+          "points": 55,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/langfr-130px-Logo_Olympique_de_Marseille.svg.png"
+        },
+        {
           "team": "Lens",
           "played": 33,
           "win": 14,
@@ -55,17 +66,6 @@ module.exports = {
           "goalsAgainst": 45,
           "points": 53,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_RC_Lens_2014.svg/langfr-130px-Logo_RC_Lens_2014.svg.png"
-        },
-        {
-          "team": "Marseille",
-          "played": 33,
-          "win": 14,
-          "draw": 10,
-          "loss": 9,
-          "goalsFor": 46,
-          "goalsAgainst": 41,
-          "points": 52,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/langfr-130px-Logo_Olympique_de_Marseille.svg.png"
         },
         {
           "team": "Rennes",
@@ -90,17 +90,6 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Montpellier_H%C3%A9rault_Sport_Club_%28logo%2C_2000%29.svg/langfr-130px-Montpellier_H%C3%A9rault_Sport_Club_%28logo%2C_2000%29.svg.png"
         },
         {
-          "team": "Metz",
-          "played": 33,
-          "win": 11,
-          "draw": 10,
-          "loss": 12,
-          "goalsFor": 36,
-          "goalsAgainst": 38,
-          "points": 43,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/FC-Metz.svg/langfr-130px-FC-Metz.svg.png"
-        },
-        {
           "team": "Nice",
           "played": 33,
           "win": 12,
@@ -112,13 +101,24 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/langfr-130px-Logo_OGC_Nice_2013.svg.png"
         },
         {
+          "team": "Metz",
+          "played": 34,
+          "win": 11,
+          "draw": 10,
+          "loss": 13,
+          "goalsFor": 37,
+          "goalsAgainst": 41,
+          "points": 43,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/FC-Metz.svg/langfr-130px-FC-Metz.svg.png"
+        },
+        {
           "team": "Reims",
-          "played": 33,
+          "played": 34,
           "win": 9,
           "draw": 14,
-          "loss": 10,
-          "goalsFor": 38,
-          "goalsAgainst": 38,
+          "loss": 11,
+          "goalsFor": 39,
+          "goalsAgainst": 41,
           "points": 41,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Stade_de_Reims_2020.svg/langfr-130px-Logo_Stade_de_Reims_2020.svg.png"
         },
@@ -134,13 +134,24 @@ module.exports = {
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_SCO_Angers.svg/langfr-130px-Logo_SCO_Angers.svg.png"
         },
         {
+          "team": "Brest",
+          "played": 34,
+          "win": 11,
+          "draw": 7,
+          "loss": 16,
+          "goalsFor": 47,
+          "goalsAgainst": 57,
+          "points": 40,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/langfr-130px-Logo_Stade_Brestois.svg.png"
+        },
+        {
           "team": "Saint-Etienne",
-          "played": 33,
+          "played": 34,
           "win": 10,
           "draw": 9,
-          "loss": 14,
-          "goalsFor": 38,
-          "goalsAgainst": 50,
+          "loss": 15,
+          "goalsFor": 39,
+          "goalsAgainst": 52,
           "points": 39,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/LOGO_ASSE_2000.svg/langfr-130px-LOGO_ASSE_2000.svg.png"
         },
@@ -154,17 +165,6 @@ module.exports = {
           "goalsAgainst": 51,
           "points": 37,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/70/Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg/langfr-130px-Racing_Club_de_Strasbourg_Alsace_%28RC_Strasbourg_-_RCS_-_RCSA%29_logo_officiel.svg.png"
-        },
-        {
-          "team": "Brest",
-          "played": 33,
-          "win": 10,
-          "draw": 7,
-          "loss": 16,
-          "goalsFor": 45,
-          "goalsAgainst": 56,
-          "points": 37,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Stade_Brestois.svg/langfr-130px-Logo_Stade_Brestois.svg.png"
         },
         {
           "team": "Bordeaux",

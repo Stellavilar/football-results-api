@@ -10,7 +10,7 @@ module.exports = {
     "scorers": [
       {
         "playerName": "Robert Lewandowski",
-        "goals": 35,
+        "goals": 36,
         "penalties": 6,
         "club": "Bayern Munich",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/langfr-130px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
@@ -18,7 +18,7 @@ module.exports = {
       },
       {
         "playerName": "Erling Haaland",
-        "goals": 23,
+        "goals": 25,
         "penalties": 2,
         "club": "Borussia Dortmund",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-130px-Borussia_Dortmund_logo.svg.png",
@@ -26,7 +26,7 @@ module.exports = {
       },
       {
         "playerName": "André Silva",
-        "goals": 23,
+        "goals": 25,
         "penalties": 6,
         "club": "Eintracht Francfurt",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/langfr-130px-Eintracht_Frankfurt_Logo.svg.png",
@@ -34,7 +34,7 @@ module.exports = {
       },
       {
         "playerName": "Wout Weghorst",
-        "goals": 19,
+        "goals": 20,
         "penalties": 2,
         "club": "Wolfsburg",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/langfr-170px-Logo-VfL-Wolfsburg.svg.png",
@@ -42,7 +42,7 @@ module.exports = {
       },
       {
         "playerName": "Andrej Kramaric",
-        "goals": 14,
+        "goals": 17,
         "penalties": 5,
         "club": "Hoffenheim",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_TSG_Hoffenheim.png/130px-Logo_TSG_Hoffenheim.png",

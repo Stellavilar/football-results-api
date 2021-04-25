@@ -222,7 +222,7 @@ module.exports = {
               "teamName": "Arsenal",
               "teamScore":3
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 11 avril 2021",
@@ -235,7 +235,7 @@ module.exports = {
               "teamName": "Manchester United",
               "teamScore":3
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 11 avril 2021",
@@ -248,7 +248,7 @@ module.exports = {
               "teamName": "Newcastle United",
               "teamScore":2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 11 avril 2021",
@@ -261,7 +261,7 @@ module.exports = {
               "teamName": "Leicester",
               "teamScore":3
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Lundi 12 avril 2021",
@@ -274,7 +274,7 @@ module.exports = {
               "teamName": "Everton",
               "teamScore":0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Lundi 12 avril 2021",
@@ -287,7 +287,7 @@ module.exports = {
               "teamName": "Southampton",
               "teamScore":0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
     ],
     "day32": [
@@ -296,26 +296,26 @@ module.exports = {
             "hour": "21:15",
             "team1": {
               "teamName": "Aston Villa",
-              "teamScore":""
+              "teamScore":1
             },
             "team2": {
               "teamName": "Manchester City",
-              "teamScore":""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Jeudi 22 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Leicester",
-              "teamScore":""
+              "teamScore":3
             },
             "team2": {
               "teamName": "West Bromwich Albion",
-              "teamScore":""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           
     ],
@@ -325,78 +325,78 @@ module.exports = {
             "hour": "21:00",
             "team1": {
               "teamName": "Arsenal",
-              "teamScore":""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Everton",
-              "teamScore":""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 24 avril 2021",
             "hour": "13:30",
             "team1": {
               "teamName": "Liverpool",
-              "teamScore":""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Newcastle United",
-              "teamScore":""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 24 avril 2021",
             "hour": "18:30",
             "team1": {
               "teamName": "West Ham",
-              "teamScore":""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Chelsea",
-              "teamScore":""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 24 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Sheffield United",
-              "teamScore":""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Brighton",
-              "teamScore":""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 25 avril 2021",
             "hour": "13:00",
             "team1": {
               "teamName": "Wolves",
-              "teamScore":""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Burnley",
-              "teamScore":""
+              "teamScore": 4
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 25 avril 2021",
             "hour": "15:00",
             "team1": {
               "teamName": "Leeds",
-              "teamScore":""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Manchester United",
-              "teamScore":""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 25 avril 2021",
@@ -427,9 +427,35 @@ module.exports = {
           
     ],
     "day34": [
+      {
+        "when": "Vendredi 30 avril 2021",
+        "hour": "21:00",
+        "team1": {
+          "teamName": "Southampton",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Leicester",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 1er Mai 2021",
+        "hour": "13:30",
+        "team1": {
+          "teamName": "Crystal Palace",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Manchester City",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
         {
             "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
+            "hour": "16:00",
             "team1": {
               "teamName": "Brighton",
               "teamScore": ""
@@ -442,20 +468,7 @@ module.exports = {
           },
           {
             "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Burnley",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "West Ham",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
+            "hour": "18:30",
             "team1": {
               "teamName": "Chelsea",
               "teamScore": ""
@@ -468,20 +481,7 @@ module.exports = {
           },
           {
             "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Crystal Palace",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Manchester City",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
+            "hour": "21:00",
             "team1": {
               "teamName": "Everton",
               "teamScore": ""
@@ -493,20 +493,7 @@ module.exports = {
             "color": "ffffff"
           },
           {
-            "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Manchester United",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Liverpool",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Samedi 1er Mai 2021",
+            "when": "Dimanche 2 Mai 2021",
             "hour": "15:00",
             "team1": {
               "teamName": "Newcastle United",
@@ -519,21 +506,21 @@ module.exports = {
             "color": "ffffff"
           },
           {
-            "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
+            "when": "Dimanche 2 Mai 2021",
+            "hour": "17:30",
             "team1": {
-              "teamName": "Southampton",
+              "teamName": "Manchester United",
               "teamScore": ""
             },
             "team2": {
-              "teamName": "Leicester",
+              "teamName": "Liverpool",
               "teamScore": ""
             },
             "color": "ffffff"
           },
           {
-            "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
+            "when": "Dimanche 2 Mai 2021",
+            "hour": "20:15",
             "team1": {
               "teamName": "Tottenham",
               "teamScore": ""
@@ -545,8 +532,8 @@ module.exports = {
             "color": "ffffff"
           },
           {
-            "when": "Samedi 1er Mai 2021",
-            "hour": "15:00",
+            "when": "Lundi 3 Mai 2021",
+            "hour": "19:00",
             "team1": {
               "teamName": "West Bromwich Albion",
               "teamScore": ""
@@ -556,12 +543,131 @@ module.exports = {
               "teamScore": ""
             },
             "color": "ffffff"
-          }
+          },
+          {
+            "when": "Lundi 3 Mai 2021",
+            "hour": "21:15",
+            "team1": {
+              "teamName": "Burnley",
+              "teamScore": ""
+            },
+            "team2": {
+              "teamName": "West Ham",
+              "teamScore": ""
+            },
+            "color": "ffffff"
+          },
+          
+          
     ],
     "day35": [
+      {
+        "when": "Vendredi 7 Mai 2021",
+        "hour": "21:00",
+        "team1": {
+          "teamName": "Leicester",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Newcastle United",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 Mai 2021",
+        "hour": "13:30",
+        "team1": {
+          "teamName": "Leeds",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Tottenham",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 Mai 2021",
+        "hour": "16:00",
+        "team1": {
+          "teamName": "Sheffield United",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Crystal Palace",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 Mai 2021",
+        "hour": "18:30",
+        "team1": {
+          "teamName": "Manchester City",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Chelsea",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 Mai 2021",
+        "hour": "21:15",
+        "team1": {
+          "teamName": "Liverpool",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Southampton",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Dimanche 9 Mai 2021",
+        "hour": "13:00",
+        "team1": {
+          "teamName": "Wolves",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Brighton",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Dimanche 9 Mai 2021",
+        "hour": "15:05",
+        "team1": {
+          "teamName": "Aston Villa",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Manchester United",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Dimanche 9 Mai 2021",
+        "hour": "17:30",
+        "team1": {
+          "teamName": "West Ham",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Everton",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
         {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
+            "when": "Dimanche 9 Mai 2021",
+            "hour": "15:05",
             "team1": {
               "teamName": "Arsenal",
               "teamScore": ""
@@ -572,22 +678,10 @@ module.exports = {
             },
             "color": "ffffff"
           },
+          
           {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Aston Villa",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Manchester United",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
+            "when": "Lundi 10 Mai 2021",
+            "hour": "21:00",
             "team1": {
               "teamName": "Fulham",
               "teamScore": ""
@@ -598,97 +692,8 @@ module.exports = {
             },
             "color": "ffffff"
           },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Leeds",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Tottenham",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Leicester",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Newcastle United",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Liverpool",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Southampton",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Manchester City",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Chelsea",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Sheffield United",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Crystal Palace",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "West Ham",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Everton",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 8 Mai 2021",
-            "hour": "15:00",
-            "team1": {
-              "teamName": "Wolverhampton Wanderers",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Brighton",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          }
+          
+          
     ],
     "day36": [
         {

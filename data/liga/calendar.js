@@ -137,130 +137,130 @@ module.exports = {
             "hour": "19:00",
             "team1": {
               "teamName": "Osasuna",
-              "teamScore": ""
+              "teamScore": 3
             },
             "team2": {
               "teamName": "Valencia",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Mercredi 21 avril 2021",
             "hour": "19:00",
             "team1": {
               "teamName": "Levante",
-              "teamScore": ""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Sevilla",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Mercredi 21 avril 2021",
             "hour": "20:00",
             "team1": {
               "teamName": "Real Betis",
-              "teamScore": ""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Athletic Bilbao",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Mercredi 21 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Elche",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Real Valladolid",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Mercredi 21 avril 2021",
             "hour": "22:00",
             "team1": {
               "teamName": "Cadiz",
-              "teamScore": ""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Real Madrid",
-              "teamScore": ""
+              "teamScore": 3
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
         {
             "when": "Mercredi 21 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Deportivo Alaves",
-              "teamScore": ""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "Villarreal",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Jeudi 22 avril 2021",
             "hour": "19:00",
             "team1": {
               "teamName": "Atletico Madrid",
-              "teamScore": ""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "SD Huesca",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Jeudi 22 avril 2021",
             "hour": "22:00",
             "team1": {
               "teamName": "Barcelona",
-              "teamScore": ""
+              "teamScore": 5
             },
             "team2": {
               "teamName": "Getafe",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Jeudi 22 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Granada",
-              "teamScore": ""
+              "teamScore": 4
             },
             "team2": {
               "teamName": "Eibar",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Jeudi 22 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Real Sociedad",
-              "teamScore": ""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "Celta Vigo",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           
     ],
@@ -270,24 +270,24 @@ module.exports = {
             "hour": "14:00",
             "team1": {
               "teamName": "Elche",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Levante",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 24 avril 2021",
             "hour": "16:15",
             "team1": {
               "teamName": "Real Valladolid",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Cadiz",
-              "teamScore": ""
+              "teamScore": 1
             },
             "color": "ffffff"
           },
@@ -296,13 +296,13 @@ module.exports = {
             "hour": "18:30",
             "team1": {
               "teamName": "Valencia",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Deportivo Alaves",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 24 avril 2021",
@@ -402,7 +402,7 @@ module.exports = {
     "day33": [
           {
             "when": "Mercredi 28 avril 2021",
-            "hour": "A définir",
+            "hour": "19:00",
             "team1": {
               "teamName": "Athletic Bilbao",
               "teamScore": ""
@@ -414,8 +414,8 @@ module.exports = {
             "color": "ffffff"
           },
           {
-            "when": "Mercredi 28 avril 2021",
-            "hour": "A définir",
+            "when": "Jeudi 29 avril 2021",
+            "hour": "19:00",
             "team1": {
               "teamName": "Barcelona",
               "teamScore": ""
