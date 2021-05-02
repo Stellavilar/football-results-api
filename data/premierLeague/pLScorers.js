@@ -42,7 +42,7 @@ module.exports = {
         },
         {
             "playerName": "Dominic Calvert-Lewin",
-            "goals": 14,
+            "goals": 15,
             "penalties": 0,
             "club": "Everton",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ef/Logo_Everton_FC_2014.svg/langfr-130px-Logo_Everton_FC_2014.svg.png",

@@ -16,21 +16,22 @@ module.exports = {
         "number": 1,
       },
       {
+        "playerName": "Wissam Ben Yedder",
+        "goals": 19,
+        "penalties": 10,
+        "club": "AS Monaco",
+        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
+        "number": 2,
+      },
+      {
         "playerName": "Memphis Depay",
         "goals": 18,
         "penalties": 8,
         "club": "Olympique Lyonnais",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png",
-        "number": 2,
-      },
-      {
-        "playerName": "Wissam Ben Yedder",
-        "goals": 18,
-        "penalties": 9,
-        "club": "AS Monaco",
-        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
         "number": 3,
       },
+
       {
         "playerName": "Kevin Volland",
         "goals": 15,

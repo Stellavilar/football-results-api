@@ -403,26 +403,26 @@ module.exports = {
             "hour": "20:00",
             "team1": {
               "teamName": "Aston Villa",
-              "teamScore":""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "West Bromwich Albion",
-              "teamScore":""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Lundi 26 avril 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Leicester",
-              "teamScore":""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "Crystal Palace",
-              "teamScore":""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           
     ],
@@ -432,78 +432,78 @@ module.exports = {
         "hour": "21:00",
         "team1": {
           "teamName": "Southampton",
-          "teamScore": ""
+          "teamScore": 1
         },
         "team2": {
           "teamName": "Leicester",
-          "teamScore": ""
+          "teamScore": 1
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
       },
       {
         "when": "Samedi 1er Mai 2021",
         "hour": "13:30",
         "team1": {
           "teamName": "Crystal Palace",
-          "teamScore": ""
+          "teamScore": 0
         },
         "team2": {
           "teamName": "Manchester City",
-          "teamScore": ""
+          "teamScore": 2
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
       },
         {
             "when": "Samedi 1er Mai 2021",
             "hour": "16:00",
             "team1": {
               "teamName": "Brighton",
-              "teamScore": ""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "Leeds",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 1er Mai 2021",
             "hour": "18:30",
             "team1": {
               "teamName": "Chelsea",
-              "teamScore": ""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "Fulham",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 1er Mai 2021",
             "hour": "21:00",
             "team1": {
               "teamName": "Everton",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Aston Villa",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 2 Mai 2021",
             "hour": "15:00",
             "team1": {
               "teamName": "Newcastle United",
-              "teamScore": ""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Arsenal",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 2 Mai 2021",
@@ -516,20 +516,20 @@ module.exports = {
               "teamName": "Liverpool",
               "teamScore": ""
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 2 Mai 2021",
             "hour": "20:15",
             "team1": {
               "teamName": "Tottenham",
-              "teamScore": ""
+              "teamScore": 4
             },
             "team2": {
               "teamName": "Sheffield United",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Lundi 3 Mai 2021",

@@ -289,7 +289,7 @@ module.exports = {
               "teamName": "Cadiz",
               "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Samedi 24 avril 2021",
@@ -387,13 +387,13 @@ module.exports = {
             "hour": "21:00",
             "team1": {
               "teamName": "Eibar",
-              "teamScore": ""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Real Sociedad",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           
          
@@ -405,111 +405,150 @@ module.exports = {
             "hour": "19:00",
             "team1": {
               "teamName": "Athletic Bilbao",
-              "teamScore": ""
+              "teamScore": 2
             },
             "team2": {
               "teamName": "Real Valladolid",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Jeudi 29 avril 2021",
             "hour": "19:00",
             "team1": {
               "teamName": "Barcelona",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Granada",
-              "teamScore": ""
+              "teamScore": 2
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           
     ],
     "day34": [
+      {
+        "when": "Vendredi 30 avril 2021",
+        "hour": "21:00",
+        "team1": {
+          "teamName": "Celta Vigo",
+          "teamScore": 2
+        },
+        "team2": {
+          "teamName": "Levante",
+          "teamScore": 0
+        },
+        "color": "#ecf0f1"
+      },
+      {
+        "when": "Samedi 1er mai 2021",
+        "hour": "16:00",
+        "team1": {
+          "teamName": "Eibar",
+          "teamScore": 3
+        },
+        "team2": {
+          "teamName": "Deportivo Alaves",
+          "teamScore": 0
+        },
+        "color": "#ecf0f1"
+      },
         {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
+            "when": "Samedi 1er mai 2021",
+            "hour": "16:00",
             "team1": {
               "teamName": "Elche",
-              "teamScore": ""
+              "teamScore": 0
             },
             "team2": {
               "teamName": "Atletico Madrid",
-              "teamScore": ""
+              "teamScore": 1
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Real Madrid",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Osasuna",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Real Valladolid",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Real Betis",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
+            "when": "Samedi 1er mai 2021",
+            "hour": "16:00",
             "team1": {
               "teamName": "SD Huesca",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Real Sociedad",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
-        {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
+          {
+            "when": "Samedi 1er mai 2021",
+            "hour": "21:00",
             "team1": {
-              "teamName": "Celta Vigo",
-              "teamScore": ""
+              "teamName": "Real Madrid",
+              "teamScore": 2
             },
             "team2": {
-              "teamName": "Levante",
-              "teamScore": ""
+              "teamName": "Osasuna",
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
+            "hour": "16:00",
+            "team1": {
+              "teamName": "Real Valladolid",
+              "teamScore": 1
+            },
+            "team2": {
+              "teamName": "Real Betis",
+              "teamScore": 1
+            },
+            "color": "#ecf0f1"
+          },
+          {
+            "when": "Dimanche 2 mai 2021",
+            "hour": "16:00",
             "team1": {
               "teamName": "Villarreal",
-              "teamScore": ""
+              "teamScore": 1
             },
             "team2": {
               "teamName": "Getafe",
-              "teamScore": ""
+              "teamScore": 0
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
           {
             "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
+            "hour": "16:00",
+            "team1": {
+              "teamName": "Granada",
+              "teamScore": 0
+            },
+            "team2": {
+              "teamName": "Cadiz",
+              "teamScore": 1
+            },
+            "color": "#ecf0f1"
+          },
+          {
+            "when": "Dimanche 2 mai 2021",
+            "hour": "21:00",
+            "team1": {
+              "teamName": "Valencia",
+              "teamScore": 2
+            },
+            "team2": {
+              "teamName": "Barcelona",
+              "teamScore": 3
+            },
+            "color": "#ecf0f1"
+          },
+          {
+            "when": "Lundi 3 mai 2021",
+            "hour": "21:00",
             "team1": {
               "teamName": "Sevilla",
               "teamScore": ""
@@ -518,54 +557,104 @@ module.exports = {
               "teamName": "Athletic Bilbao",
               "teamScore": ""
             },
-            "color": "ffffff"
+            "color": "#ecf0f1"
           },
-          {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Granada",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Cadiz",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Eibar",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Deportivo Alaves",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 2 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Valencia",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Barcelona",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          
-          
     ],
     "day35": [
+      {
+        "when": "Vendredi 7 mai 2021",
+        "hour": "21:00",
+        "team1": {
+          "teamName": "Real Sociedad",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Elche",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 mai 2021",
+        "hour": "14:00",
+        "team1": {
+          "teamName": "Deportivo Alaves",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Levante",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 mai 2021",
+        "hour": "16:15",
+        "team1": {
+          "teamName": "Barcelona",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Atletico Madrid",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 mai 2021",
+        "hour": "18:30",
+        "team1": {
+          "teamName": "Cadiz",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "SD Huesca",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Samedi 8 mai 2021",
+        "hour": "21:00",
+        "team1": {
+          "teamName": "Athletic Bilbao",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Osasuna",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Dimanche 9 mai 2021",
+        "hour": "14:00",
+        "team1": {
+          "teamName": "Getafe",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Eibar",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Dimanche 9 mai 2021",
+        "hour": "16:15",
+        "team1": {
+          "teamName": "Valencia",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Real Valladolid",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
         {
             "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Villarreal",
               "teamScore": ""
@@ -576,87 +665,9 @@ module.exports = {
             },
             "color": "ffffff"
           },
-        {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Deportivo Alaves",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Levante",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
           {
             "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Athletic Bilbao",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Osasuna",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Barcelona",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Atletico Madrid",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Real Betis",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Granada",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Getafe",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Eibar",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Cadiz",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "SD Huesca",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
+            "hour": "21:00",
             "team1": {
               "teamName": "Real Madrid",
               "teamScore": ""
@@ -668,164 +679,151 @@ module.exports = {
             "color": "ffffff"
           },
           {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
+            "when": "Lundi 10 mai 2021",
+            "hour": "21:00",
             "team1": {
-              "teamName": "Real Sociedad",
+              "teamName": "Real Betis",
               "teamScore": ""
             },
             "team2": {
-              "teamName": "Elche",
+              "teamName": "Granada",
               "teamScore": ""
             },
             "color": "ffffff"
           },
-          {
-            "when": "Dimanche 9 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Valencia",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Real Valladolid",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          
+     
     ],
     "day36": [
-        {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Atletico Madrid",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Real Sociedad",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Celta Vigo",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Getafe",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Eibar",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Real Betis",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Granada",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Real Madrid",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "SD Huesca",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Athletic Bilbao",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Levante",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Barcelona",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Osasuna",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Cadiz",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Sevilla",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Valencia",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Real Valladolid",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Villarreal",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Mercredi 12 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Elche",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Deportivo Alaves",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          }
+      {
+        "when": "Mardi 11 mai 2021",
+        "hour": "19:00",
+        "team1": {
+          "teamName": "Osasuna",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Cadiz",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Mardi 11 mai 2021",
+        "hour": "20:00",
+        "team1": {
+          "teamName": "Elche",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Deportivo Alaves",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Mardi 11 mai 2021",
+        "hour": "22:00",
+        "team1": {
+          "teamName": "Levante",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Barcelona",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Mercredi 12 mai 2021",
+        "hour": "19:00",
+        "team1": {
+          "teamName": "Sevilla",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Valencia",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Mercredi 12 mai 2021",
+        "hour": "20:00",
+        "team1": {
+          "teamName": "Celta Vigo",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Getafe",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Mercredi 12 mai 2021",
+        "hour": "20:00",
+        "team1": {
+          "teamName": "SD Huesca",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Athletic Bilbao",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Mercredi 12 mai 2021",
+        "hour": "22:00",
+        "team1": {
+          "teamName": "Atletico Madrid",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Real Sociedad",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Jeudi 13 mai 2021",
+        "hour": "19:00",
+        "team1": {
+          "teamName": "Real Valladolid",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Villarreal",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Jeudi 13 mai 2021",
+        "hour": "20:00",
+        "team1": {
+          "teamName": "Eibar",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Real Betis",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
+      {
+        "when": "Jeudi 13 mai 2021",
+        "hour": "22:00",
+        "team1": {
+          "teamName": "Granada",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Real Madrid",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },     
     ],
     "day37": [
         {
