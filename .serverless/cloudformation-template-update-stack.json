@@ -161,7 +161,7 @@
           "S3Bucket": {
             "Ref": "ServerlessDeploymentBucket"
           },
-          "S3Key": "serverless/football-api/production/1619993973550-2021-05-02T22:19:33.550Z/football-api.zip"
+          "S3Key": "serverless/football-api/production/1620560319558-2021-05-09T11:38:39.558Z/football-api.zip"
         },
         "Handler": "lambda.handler",
         "Runtime": "nodejs12.x",
@@ -179,14 +179,14 @@
         "ApiLogGroup"
       ]
     },
-    "ApiLambdaVersionmWIJI1lZLlCzA7wHI3qE3ri7sDsFT2IHoOUjKZM": {
+    "ApiLambdaVersiondVTvU6YJjMaw8RmnfUTnKMbNMW460Ezp7BhpwY0W8": {
       "Type": "AWS::Lambda::Version",
       "DeletionPolicy": "Retain",
       "Properties": {
         "FunctionName": {
           "Ref": "ApiLambdaFunction"
         },
-        "CodeSha256": "PbVyh4OIUJ9u690EulW0oKUYhypcxKGqd9PUr+vjGi8="
+        "CodeSha256": "nPmNfdfR7TEFgWh3GMhA5KsqwCGjyAB7iDiTIrnvons="
       }
     },
     "ApiGatewayRestApi": {
@@ -304,7 +304,7 @@
         "MethodResponses": []
       }
     },
-    "ApiGatewayDeployment1619993953417": {
+    "ApiGatewayDeployment1620560296581": {
       "Type": "AWS::ApiGateway::Deployment",
       "Properties": {
         "RestApiId": {
@@ -364,7 +364,7 @@
     "ApiLambdaFunctionQualifiedArn": {
       "Description": "Current Lambda function version",
       "Value": {
-        "Ref": "ApiLambdaVersionmWIJI1lZLlCzA7wHI3qE3ri7sDsFT2IHoOUjKZM"
+        "Ref": "ApiLambdaVersiondVTvU6YJjMaw8RmnfUTnKMbNMW460Ezp7BhpwY0W8"
       }
     },
     "ServiceEndpoint": {

@@ -11,7 +11,7 @@ module.exports = {
 
         {
             "playerName": "Lionel Messi",
-            "goals": 26,
+            "goals": 28,
             "penalties": 3,
             "club": "FC Barcelone",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/langfr-130px-Logo_FC_Barcelona.svg.png",

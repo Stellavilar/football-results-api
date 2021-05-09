@@ -566,65 +566,65 @@ module.exports = {
         "hour": "21:00",
         "team1": {
           "teamName": "Real Sociedad",
-          "teamScore": ""
+          "teamScore": 2
         },
         "team2": {
           "teamName": "Elche",
-          "teamScore": ""
+          "teamScore": 0
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
       },
       {
         "when": "Samedi 8 mai 2021",
         "hour": "14:00",
         "team1": {
           "teamName": "Deportivo Alaves",
-          "teamScore": ""
+          "teamScore": 2
         },
         "team2": {
           "teamName": "Levante",
-          "teamScore": ""
+          "teamScore": 2
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
       },
       {
         "when": "Samedi 8 mai 2021",
         "hour": "16:15",
         "team1": {
           "teamName": "Barcelona",
-          "teamScore": ""
+          "teamScore": 0
         },
         "team2": {
           "teamName": "Atletico Madrid",
-          "teamScore": ""
+          "teamScore": 0
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
       },
       {
         "when": "Samedi 8 mai 2021",
         "hour": "18:30",
         "team1": {
           "teamName": "Cadiz",
-          "teamScore": ""
+          "teamScore": 2
         },
         "team2": {
           "teamName": "SD Huesca",
-          "teamScore": ""
+          "teamScore": 1
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
       },
       {
         "when": "Samedi 8 mai 2021",
         "hour": "21:00",
         "team1": {
           "teamName": "Athletic Bilbao",
-          "teamScore": ""
+          "teamScore": 2
         },
         "team2": {
           "teamName": "Osasuna",
-          "teamScore": ""
+          "teamScore": 2
         },
-        "color": "ffffff"
+        "color": "#ecf0f1"
       },
       {
         "when": "Dimanche 9 mai 2021",
@@ -826,9 +826,22 @@ module.exports = {
       },     
     ],
     "day37": [
+      {
+        "when": "Dimanche 16 mai 2021",
+        "hour": "18:30",
+        "team1": {
+          "teamName": "Real Sociedad",
+          "teamScore": ""
+        },
+        "team2": {
+          "teamName": "Real Valladolid",
+          "teamScore": ""
+        },
+        "color": "ffffff"
+      },
         {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Deportivo Alaves",
               "teamScore": ""
@@ -841,7 +854,7 @@ module.exports = {
           },
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Athletic Bilbao",
               "teamScore": ""
@@ -854,7 +867,7 @@ module.exports = {
           },
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Atletico Madrid",
               "teamScore": ""
@@ -867,7 +880,7 @@ module.exports = {
           },
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Barcelona",
               "teamScore": ""
@@ -880,7 +893,7 @@ module.exports = {
           },
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Real Betis",
               "teamScore": ""
@@ -893,7 +906,7 @@ module.exports = {
           },
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Getafe",
               "teamScore": ""
@@ -906,7 +919,7 @@ module.exports = {
           },
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Cadiz",
               "teamScore": ""
@@ -917,22 +930,10 @@ module.exports = {
             },
             "color": "ffffff"
           },
+          
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
-            "team1": {
-              "teamName": "Real Sociedad",
-              "teamScore": ""
-            },
-            "team2": {
-              "teamName": "Real Valladolid",
-              "teamScore": ""
-            },
-            "color": "ffffff"
-          },
-          {
-            "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Valencia",
               "teamScore": ""
@@ -945,7 +946,7 @@ module.exports = {
           },
           {
             "when": "Dimanche 16 mai 2021",
-            "hour": "A définir",
+            "hour": "18:30",
             "team1": {
               "teamName": "Villarreal",
               "teamScore": ""

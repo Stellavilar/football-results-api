@@ -3,13 +3,13 @@ module.exports = {
     "records": [
       {
         "team": "Lille",
-        "played": 35,
-        "win": 22,
+        "played": 36,
+        "win": 23,
         "draw": 10,
         "loss": 3,
-        "goalsFor": 59,
+        "goalsFor": 62,
         "goalsAgainst": 22,
-        "points": 76,
+        "points": 79,
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/langfr-130px-Logo_LOSC_Lille_2018.svg.png",
         "number" : 1
       },
@@ -25,6 +25,18 @@ module.exports = {
         "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/600px-Paris_Saint-Germain_Logo.svg.png",
         "number" : 2
       },
+      {
+        "team": "Lyon",
+        "played": 36,
+        "win": 21,
+        "draw": 10,
+        "loss": 5,
+        "goalsFor": 74,
+        "goalsAgainst": 38,
+        "points": 73,
+        "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png",
+        "number" : 3
+      },
         {
           "team": "Monaco",
           "played": 35,
@@ -35,31 +47,7 @@ module.exports = {
           "goalsAgainst": 41,
           "points": 71,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/AS_Monaco_FC.svg/langfr-130px-AS_Monaco_FC.svg.png",
-          "number" : 3
-        },
-        {
-          "team": "Lyon",
-          "played": 35,
-          "win": 20,
-          "draw": 10,
-          "loss": 5,
-          "goalsFor": 70,
-          "goalsAgainst": 37,
-          "points": 70,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/Olympique_lyonnais_%28logo%29.svg/langfr-130px-Olympique_lyonnais_%28logo%29.svg.png",
           "number" : 4
-        },
-        {
-          "team": "Lens",
-          "played": 35,
-          "win": 15,
-          "draw": 11,
-          "loss": 9,
-          "goalsFor": 55,
-          "goalsAgainst": 48,
-          "points": 56,
-          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_RC_Lens_2014.svg/langfr-130px-Logo_RC_Lens_2014.svg.png",
-          "number" : 5
         },
         {
           "team": "Marseille",
@@ -71,6 +59,18 @@ module.exports = {
           "goalsAgainst": 43,
           "points": 56,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/langfr-130px-Logo_Olympique_de_Marseille.svg.png",
+          "number" : 5
+        },
+        {
+          "team": "Lens",
+          "played": 36,
+          "win": 15,
+          "draw": 11,
+          "loss": 10,
+          "goalsFor": 55,
+          "goalsAgainst": 51,
+          "points": 56,
+          "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_RC_Lens_2014.svg/langfr-130px-Logo_RC_Lens_2014.svg.png",
           "number" : 6
         },
         {
@@ -171,12 +171,12 @@ module.exports = {
         },
         {
           "team": "Bordeaux",
-          "played": 35,
+          "played": 36,
           "win": 11,
           "draw": 6,
-          "loss": 18,
+          "loss": 19,
           "goalsFor": 37,
-          "goalsAgainst": 52,
+          "goalsAgainst": 55,
           "points": 39,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ec/Logo_FC_Girondins_Bordeaux_2020.svg/langfr-130px-Logo_FC_Girondins_Bordeaux_2020.svg.png",
           "number" : 15
@@ -195,25 +195,25 @@ module.exports = {
         },
         {
           "team": "Lorient",
-          "played": 35,
+          "played": 36,
           "win": 10,
           "draw": 8,
-          "loss": 17,
-          "goalsFor": 46,
-          "goalsAgainst": 62,
+          "loss": 18,
+          "goalsFor": 47,
+          "goalsAgainst": 66,
           "points": 38,
           "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Lorient_Bretagne-Sud.svg/langfr-130px-Logo_FC_Lorient_Bretagne-Sud.svg.png",
           "number" : 17
         },
         {
           "team": "Nantes",
-          "played": 35,
-          "win": 7,
+          "played": 36,
+          "win": 8,
           "draw": 13,
           "loss": 15,
-          "goalsFor": 39,
+          "goalsFor": 42,
           "goalsAgainst": 53,
-          "points": 34,
+          "points": 37,
           "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FC_Nantes_2019_logo.svg/langfr-130px-FC_Nantes_2019_logo.svg.png",
           "number" : 18
         },

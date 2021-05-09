@@ -16,12 +16,20 @@ module.exports = {
         "number": 1,
       },
       {
+        "playerName": "Dusan Vlahovic",
+        "goals": 21,
+        "penalties": 6,
+        "club": "Fiorentina",
+        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_ACF_Fiorentina_2003.svg/langfr-130px-Logo_ACF_Fiorentina_2003.svg.png",
+        "number": 2,
+      },
+      {
         "playerName": "Romelu Lukaku",
         "goals": 21,
         "penalties": 5,
         "club": "Inter Milan",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-130px-FC_Internazionale_Milano_2021.svg.png",
-        "number": 2,
+        "number": 3,
       },
       {
         "playerName": "Ciro Immobile",
@@ -29,16 +37,9 @@ module.exports = {
         "penalties": 4,
         "club": "Lazio",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/langfr-130px-Logo_Lazio.svg.png",
-        "number": 3,
-      },
-      {
-        "playerName": "Dusan Vlahovic",
-        "goals": 19,
-        "penalties": 6,
-        "club": "Fiorentina",
-        "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3a/Logo_ACF_Fiorentina_2003.svg/langfr-130px-Logo_ACF_Fiorentina_2003.svg.png",
         "number": 4,
       },
+      
       {
         "playerName": "Simy Nwankwo",
         "goals": 19,

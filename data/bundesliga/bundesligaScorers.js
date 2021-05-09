@@ -10,8 +10,8 @@ module.exports = {
     "scorers": [
       {
         "playerName": "Robert Lewandowski",
-        "goals": 36,
-        "penalties": 6,
+        "goals": 39,
+        "penalties": 7,
         "club": "Bayern Munich",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/langfr-130px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
         "number": 1,
@@ -42,7 +42,7 @@ module.exports = {
       },
       {
         "playerName": "Andrej Kramaric",
-        "goals": 17,
+        "goals": 18,
         "penalties": 5,
         "club": "Hoffenheim",
         "clubLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_TSG_Hoffenheim.png/130px-Logo_TSG_Hoffenheim.png",

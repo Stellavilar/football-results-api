@@ -25,21 +25,22 @@ module.exports = {
             "number": 2,
         },
         {
+            "playerName": "Son Heung-Min",
+            "goals": 17,
+            "penalties": 1,
+            "club": "Tottenham",
+            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/langfr-130px-Logo_Tottenham_Hotspur.svg.png",
+            "number": 3
+        },
+        {
             "playerName": "Bruno Fernandes",
             "goals": 16,
             "penalties": 8,
             "club": "Manchester United",
             "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Logo_Manchester_United.svg/langfr-130px-Logo_Manchester_United.svg.png",
-            "number": 3,
+            "number": 4,
         },
-        {
-            "playerName": "Son Heung-Min",
-            "goals": 15,
-            "penalties": 1,
-            "club": "Tottenham",
-            "clubLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/langfr-130px-Logo_Tottenham_Hotspur.svg.png",
-            "number": 4
-        },
+       
         {
             "playerName": "Dominic Calvert-Lewin",
             "goals": 15,
